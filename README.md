@@ -33,7 +33,7 @@ I build practical web apps for operations, connecting useful interfaces, clear d
 
 | Métrica | Resultado observado |
 | --- | --- |
-| Linguagens por bytes | HTML **71,83%** · JavaScript **13,71%** · PL/pgSQL **11,40%** · TypeScript **2,19%** · CSS **0,83%** |
+| Linguagens por bytes | HTML **71,83%** · JavaScript **13,71%** · PL/pgSQL **11,40%** · TypeScript **2,19%** · CSS **0,83%** · Shell **0,04%** |
 | Pico de horário dos commits | **10:00–10:59 BRT** · 50 de 259 commits analisados |
 | Projetos na amostra | 3 repositórios públicos: V1, V2 e V3 |
 
