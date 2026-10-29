@@ -36,21 +36,7 @@ I build practical web apps for operations, connecting useful interfaces, clear d
   <img src="https://raw.githubusercontent.com/Felpsqzzy/felpsqzzy/output/generated/languages.svg" alt="Linguagens detectadas nos repositórios públicos" width="49%" />
 </p>
 
-<sub>Cards atualizados diariamente com estatísticas de repositórios públicos.</sub>
-
-## Dashboard público
-
-| Métrica | Resultado observado |
-| --- | --- |
-| Linguagens por bytes | HTML **71,83%** · JavaScript **13,71%** · PL/pgSQL **11,40%** · TypeScript **2,19%** · CSS **0,83%** · Shell **0,04%** |
-| Pico de horário dos commits | **10:00–10:59 BRT** · 50 de 259 commits analisados |
-| Projetos na amostra | 3 repositórios públicos: V1, V2 e V3 |
-
-<sub>Snapshot consultado em 29/10/2026. A distribuição usa bytes detectados pelo GitHub nos três repositórios. O horário usa os timestamps de autoria dos commits entre 26/08 e 18/09/2026, convertidos para BRT; commit time é apenas uma aproximação e não indica uma sessão de trabalho. Linguagem por bytes também não mede proficiência.</sub>
-
 ## Contribution snake
-
-A animação é gerada diariamente pelo GitHub Actions e publicada na branch `output`. Para gerar na hora, abra **Actions → Generate profile visuals → Run workflow**. O workflow usa o token automático do GitHub, sem segredo adicional.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Felpsqzzy/felpsqzzy/output/github-contribution-grid-snake-dark.svg" alt="Animação de uma cobrinha atravessando o calendário real de contribuições do GitHub" width="100%" />
@@ -59,7 +45,7 @@ A animação é gerada diariamente pelo GitHub Actions e publicada na branch `ou
 ## Mural
 
 <p align="center">
-  <img src="./assets/profile-mural.jpg" alt="Imagem enviada pelo Felipe para o mural do perfil" width="250" />
+  <img src="./assets/profile-mural.jpg" alt="Imagem enviada pelo Felipe para o mural do perfil" width="600" />
 </p>
 
 ## On repeat 🎧
