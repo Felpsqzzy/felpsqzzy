@@ -16,6 +16,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout profile source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+
+      - name: Generate transparent stats from public repositories
+        run: python3 scripts/generate_public_stats.py
+
       - name: Generate contribution snake
         uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
         with:

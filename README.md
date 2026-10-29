@@ -2,7 +2,7 @@
 <h1 align="center">Felipe Vieira</h1>
 
 <p align="center">
-  <strong>Full-stack developer</strong> · Web apps, dashboards & operational tools
+  <strong>Vibe coder</strong> · Web apps, dashboards & operational tools
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Sobre / About
 
-Desenvolvo aplicações web para deixar rotinas operacionais mais claras: da interface e dos dashboards à modelagem de dados e aos controles de acesso. Gosto de prototipar rápido, validar o fluxo e dar acabamento no que realmente ajuda quem usa.
+Vibe coder construindo web apps que deixam rotinas operacionais mais claras: de dashboards e interfaces à modelagem de dados, controles de acesso e automações. Gosto de prototipar rápido, validar o fluxo e cuidar do acabamento.
 
 I build practical web apps for operations, connecting useful interfaces, clear data models, and reliable workflows.
 
@@ -28,6 +28,15 @@ I build practical web apps for operations, connecting useful interfaces, clear d
 | [Maintenance Suite · V3](https://v3-manuten-o.vercel.app) · [source](https://github.com/Felpsqzzy/V3---MANUTEN-O) | Gestão operacional, dashboards e controle de acesso |
 | [Maintenance Suite · V2](https://v2-manut.vercel.app) · [source](https://github.com/Felpsqzzy/V2-MANUT) | Evolução da aplicação e dos fluxos de manutenção |
 | [Maintenance Suite · V1](https://maunbiotrop.vercel.app) · [source](https://github.com/Felpsqzzy/V1-Manuten-o) | Primeira versão pública do produto |
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Felpsqzzy/felpsqzzy/output/generated/overview.svg" alt="Resumo dos repositórios públicos do GitHub" width="49%" />
+  <img src="https://raw.githubusercontent.com/Felpsqzzy/felpsqzzy/output/generated/languages.svg" alt="Linguagens detectadas nos repositórios públicos" width="49%" />
+</p>
+
+<sub>Cards atualizados diariamente com estatísticas de repositórios públicos.</sub>
 
 ## Dashboard público
 
@@ -47,17 +56,15 @@ A animação é gerada diariamente pelo GitHub Actions e publicada na branch `ou
   <img src="https://raw.githubusercontent.com/Felpsqzzy/felpsqzzy/output/github-contribution-grid-snake-dark.svg" alt="Animação de uma cobrinha atravessando o calendário real de contribuições do GitHub" width="100%" />
 </p>
 
-## Mural em pixels
+## Mural
 
 <p align="center">
-  <img src="./assets/mural-blue-hour.svg" alt="Mosaico original em pixels com horizonte, sol e ondas em tons de azul" width="100%" />
+  <img src="./assets/profile-mural.jpg" alt="Imagem enviada pelo Felipe para o mural do perfil" width="250" />
 </p>
 
-<sub>Mural visual original: uma paleta de blue hour, luz quente e maré em blocos de pixel.</sub>
+## On repeat 🎧
 
-## No repeat 🎧
-
-[**“butterflies.” — Brent Faiyaz**](https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu) · ouvir no Spotify
+[**White Ferrari — Frank Ocean**](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) · ouvir no Spotify
 
 ---
 
