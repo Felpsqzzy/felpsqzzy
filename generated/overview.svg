@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 190" role="img" aria-labelledby="title desc">
+<title id="title">GitHub public overview</title>
+<desc id="desc">Public overview for Felpsqzzy: 6 repositories, 1 stars, 0 forks, and 0 followers.</desc>
+<style>
+      .title,.value{fill:#1f2328}
+      .label,.caption{fill:#59636e}
+      .border{stroke:#d0d7de}
+      .track{fill:#eaeef2}
+      @media(prefers-color-scheme:dark){
+        .title,.value{fill:#e6edf3}
+        .label,.caption{fill:#8b949e}
+        .border{stroke:#30363d}
+        .track{fill:#30363d}
+      }
+    </style>
+<rect class="border" x="1" y="1" width="618" height="188" rx="12" fill="none" stroke-width="1.5"/>
+<text class="title" x="26" y="38" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">GitHub overview</text>
+<text class="caption" x="26" y="60" font-family="Segoe UI,Arial,sans-serif" font-size="12">Public repositories · updated 2026-10-31 UTC</text>
+<text class="value" x="28" y="112" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">6</text>
+<text class="label" x="28" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="12">Public repos</text>
+<text class="value" x="178" y="112" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">1</text>
+<text class="label" x="178" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="12">Stars</text>
+<text class="value" x="328" y="112" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">0</text>
+<text class="label" x="328" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="12">Forks</text>
+<text class="value" x="478" y="112" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">0</text>
+<text class="label" x="478" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="12">Followers</text>
+</svg>

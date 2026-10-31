@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 238" role="img" aria-labelledby="title desc">
+<title id="title">GitHub language usage</title>
+<desc id="desc">Top 6 languages by byte count across 8 detected languages in the public repositories of Felpsqzzy.</desc>
+<style>
+      .title,.value{fill:#1f2328}
+      .label,.caption{fill:#59636e}
+      .border{stroke:#d0d7de}
+      .track{fill:#eaeef2}
+      @media(prefers-color-scheme:dark){
+        .title,.value{fill:#e6edf3}
+        .label,.caption{fill:#8b949e}
+        .border{stroke:#30363d}
+        .track{fill:#30363d}
+      }
+    </style>
+<rect class="border" x="1" y="1" width="618" height="236" rx="12" fill="none" stroke-width="1.5"/>
+<text class="title" x="26" y="36" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">Most used languages</text>
+<text class="label" x="26" y="80" font-family="Segoe UI,Arial,sans-serif" font-size="12">HTML</text>
+<rect class="track" x="174" y="68" width="275" height="10" rx="5"/>
+<rect x="174" y="68" width="108.25" height="10" rx="5" fill="#e34c26"/>
+<text class="value" x="472" y="78" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">40.85%</text>
+<text class="label" x="26" y="107" font-family="Segoe UI,Arial,sans-serif" font-size="12">JavaScript</text>
+<rect class="track" x="174" y="95" width="275" height="10" rx="5"/>
+<rect x="174" y="95" width="72.32" height="10" rx="5" fill="#f1e05a"/>
+<text class="value" x="472" y="105" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">27.29%</text>
+<text class="label" x="26" y="134" font-family="Segoe UI,Arial,sans-serif" font-size="12">PLpgSQL</text>
+<rect class="track" x="174" y="122" width="275" height="10" rx="5"/>
+<rect x="174" y="122" width="57.39" height="10" rx="5" fill="#4b6b8a"/>
+<text class="value" x="472" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">21.66%</text>
+<text class="label" x="26" y="161" font-family="Segoe UI,Arial,sans-serif" font-size="12">TypeScript</text>
+<rect class="track" x="174" y="149" width="275" height="10" rx="5"/>
+<rect x="174" y="149" width="21.98" height="10" rx="5" fill="#3178c6"/>
+<text class="value" x="472" y="159" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">8.29%</text>
+<text class="label" x="26" y="188" font-family="Segoe UI,Arial,sans-serif" font-size="12">CSS</text>
+<rect class="track" x="174" y="176" width="275" height="10" rx="5"/>
+<rect x="174" y="176" width="4.00" height="10" rx="5" fill="#563d7c"/>
+<text class="value" x="472" y="186" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">1.51%</text>
+<text class="label" x="26" y="215" font-family="Segoe UI,Arial,sans-serif" font-size="12">Shell</text>
+<rect class="track" x="174" y="203" width="275" height="10" rx="5"/>
+<rect x="174" y="203" width="0.56" height="10" rx="5" fill="#89e051"/>
+<text class="value" x="472" y="213" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">0.21%</text>
+</svg>
